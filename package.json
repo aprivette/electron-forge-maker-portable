@@ -1,5 +1,5 @@
 {
-  "name": "aprivette/electron-forge-maker-portable",
+  "name": "@aprivette/electron-forge-maker-portable",
   "version": "0.2.0",
   "description": "Electron Forge Maker for portable Windows apps",
   "files": [
